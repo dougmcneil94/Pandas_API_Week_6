@@ -6,3 +6,5 @@
 
 
 3.	There does not seem to be a strong correlation between either wind speed and latitude or between cloudiness and latitude, for winds this is because they are affected by land and water mass variations and are not uniform across the earth. Cloudiness is also affected by different pressures and humidity and is not uniform. 
+
+Issues: Cannot seem to read notebook file in github, only shows as raw code
